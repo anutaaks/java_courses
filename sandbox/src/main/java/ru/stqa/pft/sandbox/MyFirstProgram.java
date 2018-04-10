@@ -1,3 +1,4 @@
+package ru.stqa.pft.sandbox;
 
 public class MyFirstProgram {
 
@@ -5,4 +6,5 @@ public class MyFirstProgram {
 
 System.out.println("Hello world");
 }
+
 }
