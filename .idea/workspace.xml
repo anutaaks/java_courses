@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521c0f40-6c74-4add-a501-07f11dbf8d8a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/out/production/classes/MyFirstProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/CalculateDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/CalculateDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sandbox/.gradle/" />
     <ignored path="$PROJECT_DIR$/sandbox/build/" />
@@ -48,20 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculateDistance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculateDistance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/CalculateDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Point.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -407,15 +406,15 @@
         <option value="$PROJECT_DIR$/sandbox/src/main/java/MyFirstProgram.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/Point.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/CalculateDistance.java" />
-        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/CalculateDistance.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="174" />
     <option name="y" value="123" />
-    <option name="width" value="1090" />
+    <option name="width" value="1201" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -568,7 +567,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="174" y="123" width="1090" height="777" extended-state="0" />
+    <frame x="174" y="123" width="1201" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
@@ -579,12 +578,12 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32859176" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.32110092" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29142383" />
       <window_info anchor="bottom" id="Build" order="3" weight="0.32859176" />
       <window_info anchor="right" id="Gradle" order="1" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -619,17 +618,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/CalculateDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/CalculateDistance.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
