@@ -25,7 +25,7 @@ public class ContactCreationTests {
         wd.get("http://localhost/addressbook/index.php");
         login("admin", "secret");
     }
-    
+
     private void login(String username, String password) {
         wd.findElement(By.name("user")).click();
         wd.findElement(By.name("user")).clear();
